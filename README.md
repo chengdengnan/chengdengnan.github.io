@@ -25,3 +25,5 @@ npm run build
 ```
 npm run lint
 ```
+
+### .prettierrc 全局格式化配置文件
